@@ -1,0 +1,6 @@
+{
+  "name": "Kisan Dost Pakistan",
+  "description": "Learn Smart. Farm Better. Complete educational agriculture app for Pakistani farmers and students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
